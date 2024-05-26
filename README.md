@@ -1,4 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/XCfSU0dF)
+
 # TP #1 : Produire une application Web avec des composants `React` modulaires et intégrant des effets d’animation.
 ## Travail d'équipe permis (mais pas plus de 2 personnes par équipe).
 
