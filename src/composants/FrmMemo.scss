@@ -1,0 +1,27 @@
+.FrmMemo{
+
+    display: flex;
+    justify-content: center;
+    padding-top: 1rem;
+    gap: 1rem;
+    margin-bottom:1rem;
+    input, textarea{
+        width: 100%;
+        padding: 0.5rem;
+      
+        border-radius: 6px;
+        /* From https://css.glass */
+        background: rgba(255, 255, 255, 0.58);
+    
+        box-shadow: 0 4px 30px rgba(46, 64, 156, 0.425);
+        backdrop-filter: blur(3.2px);
+        -webkit-backdrop-filter: blur(3.2px);
+        border: 1px solid rgb(107, 65, 159);
+        color: rgb(0, 0, 0);
+    }
+  
+    .icone {
+        
+        cursor: pointer;
+    }
+}

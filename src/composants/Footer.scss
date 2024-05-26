@@ -1,0 +1,21 @@
+.Footer{
+    display: flex;
+    justify-content: center;
+    background-color: #42592C;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    z-index: 100;
+    font-size: 0.8em;
+    position: fixed;
+    font-family: 'roboto', sans-serif;
+    a{
+        color: white;
+        text-decoration: none;
+    }
+    
+  
+}
