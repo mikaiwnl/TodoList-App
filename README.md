@@ -1,10 +1,6 @@
 
 # TP #1 : Produire une application Web avec des composants `React` modulaires et intégrant des effets d’animation.
-## Travail d'équipe permis (mais pas plus de 2 personnes par équipe).
 
->Si vous travaillez en équipe, les deux personnes doivent accepter les fichiers du TP sur *GitHub Classroom*.
-
->Divisez le travail dans l'équipe de façon à simplifier/faciliter ces fusions (expérimentez, c'est le moment idéal !)
 
 ## Objectif/exigences généraux
 * Vous créez une application `React` monopage pour gérer une liste de **tâches à compléter**. Votre application doit être modulaire, adaptative (*mobile first*), visuellement attrayante et comportant des effets d'animation pertinents à l'interactivité de l'IU
