@@ -1,12 +1,17 @@
 {
-  "name": "h24-tp1-memo",
+  "name": "todoList",
+  "homepage": "https://mikaiwnl.github.io/react-gh-pages",
   "private": true,
   "version": "1",
   "type": "module",
   "scripts": {
     "dev": "vite",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
     "build": "vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+     "preghp": "npm run build",
+    "ghp": "gh-pages -d dist"
   },
   "dependencies": {
     "@emotion/react": "^11.11.4",
