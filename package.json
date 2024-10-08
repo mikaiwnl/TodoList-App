@@ -1,6 +1,6 @@
 {
   "name": "todoList",
-  "homepage": "https://mikaiwnl.github.io/react-gh-pages",
+  "homepage": "https://mikaiwnl.github.io/TodoList-App",
   "private": true,
   "version": "1",
   "type": "module",
@@ -10,7 +10,7 @@
     "deploy": "gh-pages -d build",
     "build": "vite build",
     "preview": "vite preview",
-     "preghp": "npm run build",
+    "preghp": "npm run build",
     "ghp": "gh-pages -d dist"
   },
   "dependencies": {
@@ -19,6 +19,7 @@
     "@mui/icons-material": "^5.15.14",
     "@mui/material": "^5.15.14",
     "framer-motion": "^11.0.25",
+    "gh-pages": "^6.1.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
